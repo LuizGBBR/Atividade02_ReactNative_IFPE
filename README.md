@@ -1,0 +1,2 @@
+# Atividade 05 do curso de Formação Node e React - Extensão Tecnológica IFPE. Atividade 02 de React Native com intuito de criar um protótipo de tela de login. <img align="center" alt="reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> Resultado da tela:
+![image](https://user-images.githubusercontent.com/72817196/206316603-f37373c4-312e-4af3-b036-74efc9033002.png)
